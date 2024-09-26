@@ -1,0 +1,19 @@
+git checkout:-
+1. like changing your outfit and clening your room at same time. it does both things!
+2. git checkout <branch> is like picking a new outfit(switching tasks).
+3. git checkout -b <new-brnach> is like making new outfit and wearing it right away.
+4. git checkout <file> is like cleaning up messy room(fixing a file).
+5. git checkout <commit-hash> is like looking at an old photo album (going back in time to an older task).
+6. like doing two things at once (can change outfits and clean the room).
+7. you might accidentally clean something you didn't want to like cleaning your favorite toy!
+
+git switch:-
+1. Like only changing your outfit. No room cleaning!
+2. git switch <branch> is also like picking a new outfit (switching tasks).
+3. git switch -c <new-branch> is like making a new outfit and putting it on.
+4. Cannot clean the room (no file dixing allowed here).
+5. git switch --detach <commit-hash> is the same as going back in time but no changing things.
+6. Only for changing outfits (easy and focused).
+7. No risk here, just changing outfits, so no accidents!
+
+
